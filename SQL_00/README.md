@@ -4,7 +4,31 @@
 # Day 00 — SQL Bootcamp
 
 ## Struct:
-<pre lang="markdown"> ```text . ├── ex00 │   └── day00_ex00.sql ├── ex01 │   └── day00_ex01.sql ├── ex02 │   └── day00_ex02.sql ├── ex03 │   └── day00_ex03.sql ├── ex04 │   └── day00_ex04.sql ├── ex05 │   └── day00_ex05.sql ├── ex06 │   └── day00_ex06.sql ├── ex07 │   └── day00_ex07.sql ├── ex08 │   └── day00_ex08.sql ├── ex09 │   └── day00_ex09.sql ├── model.sql └── README.md ``` </pre>
+```
+.
+├── ex00
+│   └── day00_ex00.sql
+├── ex01
+│   └── day00_ex01.sql
+├── ex02
+│   └── day00_ex02.sql
+├── ex03
+│   └── day00_ex03.sql
+├── ex04
+│   └── day00_ex04.sql
+├── ex05
+│   └── day00_ex05.sql
+├── ex06
+│   └── day00_ex06.sql
+├── ex07
+│   └── day00_ex07.sql
+├── ex08
+│   └── day00_ex08.sql
+├── ex09
+│   └── day00_ex09.sql
+├── model.sql
+└── README.md
+```
 
 ## _Relational Data Model and SQL_
 
