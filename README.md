@@ -1,2 +1,1 @@
-# SQL_pet_project
-В каждой директории свой README!
+README files are located inside the projects.
